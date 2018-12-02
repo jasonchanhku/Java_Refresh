@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Computer
+comment0.text=\n\ The\ Computer\ class\ represents\ the\ computer\ in\ the\ game\n\ It\ uses\ a\ random\ number\ generator\ to\ make\ its\ choice\ randomly\n
+comment1.params=
+comment1.target=void\ makeChoice()
+comment1.text=\n\ Use\ a\ random\ number\ generator\ to\ generate\ a\ random\ choice\ and\ then\ create\ the\ corresponding\ Choice\ object\n
+comment2.params=canvas
+comment2.target=void\ showChoice(comp102x.Canvas)
+comment2.text=\n\ Draw\ an\ image\ that\ represents\ the\ computer's\ choice\ on\ the\ given\ canvas\n\ \n\ @param\ \ \ canvas\ \ \ \ \ \ the\ canvas\ to\ draw\ on\n
+comment3.params=
+comment3.target=Choice\ getChoice()
+comment3.text=\n\ Get\ the\ choice\ object\ that\ represents\ the\ computer's\ choice\n\ \n\ @return\ \ the\ choice\ object\ that\ represents\ the\ computer's\ choice\n
+numComments=4
