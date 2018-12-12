@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PowerCalculator
+comment1.params=number\ power
+comment1.target=long\ powerN(int,\ int)
+comment1.text=\n\ Calculate\ the\ non-negative\ power\ of\ an\ integer\ number.\ If\ a\ negative\ power\ is\ input,\ the\ method\ returns\ 1.\n\ \n\ @param\ number\ The\ number\ to\ take\ power.\n\ @param\ power\ The\ power\ factor\ to\ be\ taken\ to.\n\ @return\ The\ calculation\ result\ after\ taking\ power\ of\ the\ integer\ number.\n
+comment2.params=n1\ n2
+comment2.target=int\ fact2(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

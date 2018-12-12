@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Q13
+comment1.params=p\ q
+comment1.target=int\ countDivisible(int,\ int)
+comment2.params=seqCenter\ length
+comment2.target=void\ printNumberLine(int,\ int)
+comment3.params=diaCenter
+comment3.target=void\ printNumberDiamond(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
